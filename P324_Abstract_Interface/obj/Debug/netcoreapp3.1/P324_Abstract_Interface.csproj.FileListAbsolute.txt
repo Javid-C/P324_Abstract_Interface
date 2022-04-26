@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.exe
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.deps.json
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.dll
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\bin\Debug\netcoreapp3.1\P324_Abstract_Interface.pdb
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.dll
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.pdb
+C:\Users\Lenovo\source\repos\P324_Abstract_Interface\P324_Abstract_Interface\obj\Debug\netcoreapp3.1\P324_Abstract_Interface.genruntimeconfig.cache
